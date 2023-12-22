@@ -36,3 +36,22 @@ D:\Tutorial\Project\Project-API\Application\obj\Debug\net6.0\refint\Application.
 D:\Tutorial\Project\Project-API\Application\obj\Debug\net6.0\Application.pdb
 D:\Tutorial\Project\Project-API\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
 D:\Tutorial\Project\Project-API\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Application.deps.json
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Application.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Application.pdb
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Business.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Database.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Business.pdb
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\bin\Debug\net6.0\Database.pdb
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.pdb
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Application\obj\Debug\net6.0\ref\Application.dll

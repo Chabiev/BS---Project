@@ -26,3 +26,17 @@ D:\Tutorial\Project\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
 D:\Tutorial\Project\Project-API\Business\obj\Debug\net6.0\Business.pdb
 D:\Tutorial\Project\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
 D:\Tutorial\Project\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Angular\Routing\routing 1\API-Register\BS---Project\Project-API\Business\obj\Debug\net6.0\ref\Business.dll

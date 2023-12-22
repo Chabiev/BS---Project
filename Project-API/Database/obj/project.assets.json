@@ -5877,23 +5877,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\IBSU-Student\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tutorial\\Project\\Project-API\\Database\\Database.csproj",
+      "projectUniqueName": "C:\\Angular\\Routing\\routing 1\\API-Register\\BS---Project\\Project-API\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "D:\\Tutorial\\Project\\Project-API\\Database\\Database.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Tutorial\\Project\\Project-API\\Database\\obj\\",
+      "projectPath": "C:\\Angular\\Routing\\routing 1\\API-Register\\BS---Project\\Project-API\\Database\\Database.csproj",
+      "packagesPath": "C:\\Users\\IBSU-Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Angular\\Routing\\routing 1\\API-Register\\BS---Project\\Project-API\\Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IBSU-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5902,15 +5902,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Tutorial\\Project\\Project-API\\Business\\Business.csproj": {
-              "projectPath": "D:\\Tutorial\\Project\\Project-API\\Business\\Business.csproj"
+            "C:\\Angular\\Routing\\routing 1\\API-Register\\BS---Project\\Project-API\\Business\\Business.csproj": {
+              "projectPath": "C:\\Angular\\Routing\\routing 1\\API-Register\\BS---Project\\Project-API\\Business\\Business.csproj"
             }
           }
         }
@@ -5978,7 +5977,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

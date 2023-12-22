@@ -1,0 +1,17 @@
+<p>login works!</p>
+<form [formGroup]="loginForm">
+    <h2>Log in</h2>
+    <div>
+        <label for="email">Email</label>
+        <input type="text" id="email" formControlName="email" 
+        placeholder="Email">
+    </div>
+    <div>
+        <label for="password">Password</label>
+        <input type="password" id="password" formControlName="password" 
+        placeholder="Email">
+    </div>
+
+    <button (click)="Login()">Log In</button>
+    <button (click)="goToRegister()">Register</button>
+</form>

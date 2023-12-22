@@ -3,6 +3,7 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { passwordMatchValidator } from '../validators/passwordMatch.Validator';
 import { Job } from 'src/app/interfaces/job';
 import { UserService } from 'src/app/services/user.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-register',
@@ -17,6 +18,7 @@ export class RegisterComponent {
   constructor(
     private fb: FormBuilder,
     private userService: UserService,
+    private router: Router,
 
   ) {}
 
@@ -44,13 +46,18 @@ export class RegisterComponent {
 
       this.userService.registerUser({ ...userData, jobId: job.id }).subscribe({
         next: (response) => {
-          console.log(response);
+          console.log("Registration successful: ",response);
+          this.router.navigate(['/login']);
         },
         error: (error) => {
           console.log('Registration failed: ', error);
         }
       });
     }
+  }
+
+  goToLogin(){
+    this.router.navigate(['/login']);
   }
 
   fetchJobOptions(): void {

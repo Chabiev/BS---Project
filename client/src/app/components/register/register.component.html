@@ -46,7 +46,7 @@
             
     <label for="email">
         <input class="input" type="text" id="email" formControlName="email"  required="">
-        <span>Email</span>
+        <span appSetBackground>Email</span>
     </label> 
         
     <label for="password">
@@ -60,7 +60,7 @@
 
     <label for="job">Job</label>
 
-    <select class="button"   id="jobId" formControlName="jobId" >
+    <select *appUnless="jobOptions.length==0" class="button"   id="jobId" formControlName="jobId" >
        
         <option *ngFor="let job of jobOptions" [ngValue]="job">{{job.title}}</option>
     </select>
@@ -68,5 +68,6 @@
 
 
     <button class="submit" (click)="Register()">Submit</button>
+    <button class="submit" (click)="goToLogin()">Login</button>
     
 </form>
